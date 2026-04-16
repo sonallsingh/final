@@ -1,0 +1,18 @@
+# Java / Maven
+backend/target/
+backend/.idea/
+*.iml
+
+# Python
+ml-service/.venv/
+ml-service/__pycache__/
+ml-service/**/*.pyc
+ml-service/artifacts/*.pkl
+ml-service/artifacts/training_meta.json
+
+# Frontend
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
